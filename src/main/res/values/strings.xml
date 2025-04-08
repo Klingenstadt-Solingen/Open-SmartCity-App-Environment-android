@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ENVIRONMENT RELATED STRINGS [!need override!] -->
+    <string name="environment_title">Environment</string>
+    <string name="dashboard_environment_in_city">Environment in %s</string>
+    <string name="back_button">Back</string>
+
+    <string name="error_no_data_available">No data available</string>
+    <string name="try_again_button">Try again</string>
+    <string name="environment_no_result">No result available</string>
+    <string name="environment_no_favorites">No sensor has been favorited</string>
+
+    <string name="environment_title_sensor_location">Sensor Location</string>
+    <string name="environment_title_choose_measurement_location">Please choose a Measurement Location</string>
+    <string name="environment_title_list">List</string>
+    <string name="environment_title_map">Map</string>
+
+</resources>
